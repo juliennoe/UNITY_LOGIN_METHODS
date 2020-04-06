@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{700E8959-3B19-4EFC-7C2B-7A54634D0140}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_SCRIPTS/LocalLogin.cs">
+    <Files>
+      <File FileName="Assets/_SCRIPTS/LocalLogin.cs" Line="130" Column="16" />
+      <File FileName="Assets/_SCRIPTS/BasicLogin.cs" Line="6" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
