@@ -64,7 +64,9 @@
   <ItemGroup>
     <Compile Include="Assets\_SCRIPTS\BasicLogin.cs" />
     <Compile Include="Assets\_SCRIPTS\LocalLogin.cs" />
+    <Compile Include="Assets\_SCRIPTS\LocalRegister.cs" />
     <Compile Include="Assets\AnchorSnap\AnchorSnap.cs" />
+    <None Include="Assets\julien.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/noe/Documents/_PROJETS_UNITY/UNITY_LOGIN_METHODS/UNITY_LOGIN/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
